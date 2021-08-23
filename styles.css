@@ -4,7 +4,9 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
 
-.hero {background-image: url("./images/images.png");
+.hero {background-image: url("./images/hero.png");
+    background-repeat: no-repeat;
+    background-position: c;
 height: 100%;
 width: 100%;
 color: blanchedalmond;
