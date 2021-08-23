@@ -184,9 +184,9 @@ footer {
 
 {
 
-    .hero{
+    .hero{ background-image: url("./images/hero\ mobile.png");
         background-repeat: none;
-        height: 400px;
+    
 
     }
     
