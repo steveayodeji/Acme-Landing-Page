@@ -212,6 +212,9 @@ footer {
         gap: 0px;
         align-items: center;
     }
+    .content , .content2{
+           text-align: center;
+    }
     .elements h3{
         font-size: 25px;
         padding: 20px 0px 20px;
